@@ -32,4 +32,4 @@ load file path : ./scale/do.wav
 ```
 Filename:hoge
 ```
-7. 結果が出力
+7. 結果を出力
